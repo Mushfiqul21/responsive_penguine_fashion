@@ -1,0 +1,21 @@
+.header-custom-bg{
+    background-color: #fff7f7;
+}
+.heading-text-color{
+    color: #A5BD49;
+}
+.custom-btn{
+    background-color: #A5BD49!important;
+    color: #fff!important;
+}
+.custom-btn:hover{
+    background-color: transparent!important;
+    color: #A5BD49!important;
+    border: 2px solid #A5BD49!important;
+}
+.custom-price-color{
+    color:rgb(218, 167, 1);
+}
+.custom-card{
+    box-shadow: 4px 4px 20px gray;
+}
